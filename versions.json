@@ -1,5 +1,12 @@
 [
   {
+    "version": "Enterprise",
+    "title": "Enterprise",
+    "aliases": [
+      "enterprise"
+    ]
+  },
+  {
     "version": "devel",
     "title": "devel",
     "aliases": [
@@ -10,7 +17,6 @@
     "version": "2.6",
     "title": "2.6",
     "aliases": [
-      "lates",
       "latest"
     ]
   }
