@@ -1,9 +1,9 @@
 [
   {
-    "version": "Enterprise",
-    "title": "Enterprise",
+    "version": "enterprise",
+    "title": "enterprise",
     "aliases": [
-      "enterprise"
+      "Enterprise"
     ]
   },
   {
